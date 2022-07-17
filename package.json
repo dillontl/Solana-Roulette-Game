@@ -1,0 +1,16 @@
+{
+  "name": "solana-roulette-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dillon Luera",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.48.0",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.4"
+  },
+  "description": ""
+}
